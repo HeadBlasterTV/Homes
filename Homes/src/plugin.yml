@@ -1,0 +1,11 @@
+name: Homes
+version: 1.10
+author: HeadBlasterTV
+main: me.homes.Homes
+commands:
+  home:
+    description: Teleport you to a home
+  sethome:
+    description: Sets a home
+  homes:
+    description: Home Command
